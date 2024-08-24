@@ -2,4 +2,4 @@
 
 Task 1: 
 1] To create a To Do List Application
-2] Lnaguage: C++
+2] Language: C++
